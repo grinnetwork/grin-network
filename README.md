@@ -1,2 +1,3 @@
-# grin-network
-Grin Network Website
+# Grin.network
+
+[Website](https://grin.network)
